@@ -1,4 +1,3 @@
-# Game-of-Life (WoP)
+# Game-of-Life
 A simple Conway's Game of Life with PyGame.
-
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+The main goal was to put my hands on Python, nothing intersting here.
